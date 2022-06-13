@@ -1,0 +1,15 @@
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\bin\Debug\net6.0\LogicaDeProgramacao.exe
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\bin\Debug\net6.0\LogicaDeProgramacao.deps.json
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\bin\Debug\net6.0\LogicaDeProgramacao.runtimeconfig.json
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\bin\Debug\net6.0\LogicaDeProgramacao.dll
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\bin\Debug\net6.0\LogicaDeProgramacao.pdb
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\LogicaDeProgramacao.csproj.AssemblyReference.cache
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\LogicaDeProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\LogicaDeProgramacao.AssemblyInfoInputs.cache
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\LogicaDeProgramacao.AssemblyInfo.cs
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\LogicaDeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\LogicaDeProgramacao.dll
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\refint\LogicaDeProgramacao.dll
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\LogicaDeProgramacao.pdb
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\LogicaDeProgramacao.genruntimeconfig.cache
+C:\Users\DiverseDev\Desktop\curso UDEMY\TESTE\TESTE\obj\Debug\net6.0\ref\LogicaDeProgramacao.dll
