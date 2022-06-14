@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DiverseDev\\Desktop\\Curso Udemy C#\\LogicaDeProgramacaoCSharp\\logica\\LogicaDeProgramacao.csproj",
-      "projectName": "LogicaDeProgramacao",
-      "projectPath": "C:\\Users\\DiverseDev\\Desktop\\Curso Udemy C#\\LogicaDeProgramacaoCSharp\\logica\\LogicaDeProgramacao.csproj",
+      "projectUniqueName": "C:\\Users\\DiverseDev\\Desktop\\Curso Udemy C#\\LogicaDeProgramacaoCSharp\\Casting\\Casting.csproj",
+      "projectName": "Casting",
+      "projectPath": "C:\\Users\\DiverseDev\\Desktop\\Curso Udemy C#\\LogicaDeProgramacaoCSharp\\Casting\\Casting.csproj",
       "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DiverseDev\\Desktop\\Curso Udemy C#\\LogicaDeProgramacaoCSharp\\logica\\obj\\",
+      "outputPath": "C:\\Users\\DiverseDev\\Desktop\\Curso Udemy C#\\LogicaDeProgramacaoCSharp\\Casting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
